@@ -1,23 +1,33 @@
 # My Bucket List
 
-## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
 
-## Travel and Adventure
- * Visit Antarctica
- * Go skydiving
- * Dive the Great Barrier Reef
- 
-## Career
- * ~~Learn coding skills~~
- * Get a job in technology
+## Personal
+ * ~~Own a car~~
+ * Own a business
+ * Own a house
 
-## Service and volunteering
- * Join a nonprofit board
- * Volunteer at a children's hospital
+## Education
+ * ~~High School~~
+ * Bachelors in BS ECE
+ * Microsoft Office Certified
+ * Java SE7 Certified
+ * HTML5 Certified
+
+## Family
+ * Happily married
+ * 3 kids
+ * Enrol kids in a prestigious school
+ * Financially stable
  
-## Creativity
-* Write a song
-* Take an art class
+## Travel
+ * ~~Seoul Tower, South Korea~~
+ * ~~Burj Khalifa, United Arab Emirates~~
+ * Eiffel Tower, France
+ * ~~Space Needle, USA~~
+ * Statue of Liberty, USA
+ * Grand Canyon, USA
+
+## Service
+ * ~~Donate to Blood Bank~~
+ * ~~Volunteer for a Tree Planting~~
+ * Donate books to Library/School
